@@ -1,6 +1,6 @@
-# Single Song Promotion
+# Frank Ocean, Self Control
 
-> Playlists more popular than albums 
+> single from the song 
 
 ## What is this? 
 * A website to promote a single-song
@@ -13,4 +13,5 @@
 * What's old is new agai. This is the [modern mixtape](https://en.wikipedia.org/wiki/Mixtape) or a compilation of curated songs. 
 
 ## Citations
+[Genius] (https://genius.com/Frank-ocean-self-control-lyrics)
 * Your citations go here
