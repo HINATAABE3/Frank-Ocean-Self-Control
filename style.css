@@ -1,7 +1,7 @@
 /* CSS Variables */
 :root {
     /* main UI color */
-    --plyr-color-main: darkgray;
+    --plyr-color-main: rgb(177, 247, 171);
     /* audio controls background */
     --plyr-audio-controls-background: black;
     /* audio controls color */
@@ -20,24 +20,41 @@
     --plyr-control-icon-size: 16px;
 }
 
+
+@import url();
+
+
+
+
+
+
+
 body {
-    background: rgb(204, 204, 204);
+    background: rgb(117, 247, 171);
 }
 
 /* Layout */
 main {
     /* Fixed width center align */
-    max-width: 60em;
+    max-width: 65em;
     margin-inline: auto;
 
-    background: rgb(180, 180, 180);
+    background: rgb(255, 250, 239);
   
 }
+
+
+
+
+
+
 
 main img {
     /* Fit image to container */
     max-width: 100%;
     display: block;
+    margin: auto;
+    
 }
 
 /* Primary Content */
@@ -46,6 +63,9 @@ article {
     display: flex;
     gap: 1em;
     justify-content: center;
+    padding: 30px;
+   
+    
 }
 
 article section {
@@ -64,6 +84,13 @@ footer {
         flex-direction: column;
     }
 }
+
+h1{
+    margin-left: 30px;
+}
+
+h2{padding: 50px;}
+
 
 
 
