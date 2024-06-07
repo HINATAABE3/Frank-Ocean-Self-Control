@@ -21,7 +21,7 @@
 }
 
 body {
-    background: gray;
+    background: rgb(204, 204, 204);
 }
 
 /* Layout */
@@ -30,7 +30,8 @@ main {
     max-width: 60em;
     margin-inline: auto;
 
-    background: lightgray;
+    background: rgb(180, 180, 180);
+  
 }
 
 main img {
@@ -63,3 +64,14 @@ footer {
         flex-direction: column;
     }
 }
+
+
+
+
+section style="margin-left: 40px;">
+
+
+
+
+</section>
+
